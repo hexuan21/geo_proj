@@ -205,9 +205,7 @@ if __name__ == "__main__":
     # model_name="stability-ai/stablelm-tuned-alpha-7b:943c4afb4d0273cf1cf17c1070e182c903a9fe6b372df36b5447cf45935c42f2"
     # model_name="google-deepmind/gemma-7b-it:2790a695e5dcae15506138cc4718d1106d0d475e6dca4b1d43f42414647993d5"
     # model_name="lucataco/qwen1.5-7b:f85bec5b21ba0860e0f200be6ef5af9d5a65b974b9f99e36eb036d21eab884de"
-    
     model_name="lucataco/qwen1.5-14b:28c4bbc17ee1575bd2efe2d805a6c3da9f555bf6298d447d9d8d8ebfb891c4a1"
-    
     # model_name="lucataco/qwen1.5-72b:f919d3c43a8758de744cf2908426dd744154120f0a22e457a3fa647acdfe33be"
     # model_name="nateraw/nous-hermes-llama2-awq:b3f3f0120a3c4fd37a5e75164cc3ed883c248b9e6d004a70f0d31c3b0debb604"
     # model_name="nateraw/nous-hermes-2-solar-10.7b:1e918ab6ffd5872c21fba21a511f344fd12ac0edff6302c9cd260395c7707ff4"
@@ -220,6 +218,7 @@ if __name__ == "__main__":
     # model_name="adirik/mamba-2.8b:571abd73203a3dd3d7071f1c0380a3502c427aba98a2fb5edf2f7cfdeea1676c"
     # model_name="lucataco/phi-2:740618b0c24c0ea4ce5f49fcfef02fcd0bdd6a9f1b0c5e7c02ad78e9b3b190a6"
     # model_name="lucataco/phixtral-2x2_8:25d7b93bb0ec9e8dd94fcc69adc786759243a5628ba5574bd9609d6abafe57cf"
+
 
     # model_name="meta/llama-2-70b-chat"
     # model_name="replicate/llama-7b:03d3a482ec4f2ec1809171d0ffbd3be7d2a775a01c6bfb5988f4acf39d64f0ce"
