@@ -4,3 +4,4 @@ aside*.py
 *.docx
 *.pdf
 *.xlsx
+log.txt
