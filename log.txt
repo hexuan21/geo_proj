@@ -1,0 +1,33 @@
+cite some papers about LLMs in Geology
+//let gpt-4o geenrate 500 MCQ, 450 as finetuning data, 50 as test data
+//gpt-4o-2024-0806
+//gpt-4o-mini
+//deepseek-coder
+//deepseek-math
+//claude-3.5-sonnet
+///LLama-3.1-405b
+//LLama-3.1-70b
+//LLama-3-70b
+
+some avg humans' score
+some experts' score (student who have got 4.0 in Engineering Geology)
+
+finetune gpt-3.5-turbo
+finetune gpt-4o-mini 
+finetune gpt-4o
+
+aug:
+more open-sourced models
+translate CN QA to EN QA
+add 1-shot
+
+
+
+"gpt-4o-2024-08-06"
+"claude-3.5-sonnet"
+"yorickvp/llava-v1.6-mistral-7b:19be067b589d0c46689ffa7cc3ff321447a441986a7694c01225973c2eafc874"
+"yorickvp/llava-13b:80537f9eead1a5bfa72d5ac6ea6414379be41d4d4f6679fd776e9535d1eb58bb"
+"yorickvp/llava-v1.6-vicuna-13b:0603dec596080fa084e26f0ae6d605fc5788ed2b1a0358cd25010619487eae63"
+"yorickvp/llava-v1.6-34b:41ecfbfb261e6c1adf3ad896c9066ca98346996d7c4045c5bc944a79d430f174"
+"lucataco/moondream2:72ccb656353c348c1385df54b237eeb7bfa874bf11486cf0b9473e691b662d31"
+"lucataco/moondream1:ecd26482e4c9220957e22290cb616200b51217fe807f61653a8459ed7541e9d5"

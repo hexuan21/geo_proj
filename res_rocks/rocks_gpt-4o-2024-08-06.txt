@@ -1,0 +1,1105 @@
+编号: 000
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 千枚岩
+B. 辉长岩
+C. 鲕状灰岩
+D. 珍珠岩
+E. 岩屑砂岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/000.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 001
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 千枚岩
+B. 岩屑砂岩
+C. 凝灰岩
+D. 鲕状灰岩
+E. 石英砂岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/001.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 002
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 油页岩
+B. 千枚岩
+C. 斜长角闪岩
+D. 蛇纹岩
+E. 大理岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/002.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 003
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 孔雀石
+B. 珍珠岩
+C. 黑曜岩
+D. 大理岩
+E. 榴辉岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/003.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 004
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 岩屑砂岩
+B. 黑曜岩
+C. 凝灰岩
+D. 板岩
+E. 正长岩/正长石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/004.png
+参考答案: D
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 005
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 板岩
+B. 岩屑砂岩
+C. 玄武岩
+D. 蛇纹岩
+E. 黑曜岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/005.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 006
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 斜长角闪岩
+C. 闪长岩
+D. 正长岩/正长石
+E. 白岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/006.png
+参考答案: B
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 007
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 糜棱岩
+B. 板岩
+C. 砾岩/角砾岩
+D. 石英砂岩
+E. 榴辉岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/007.png
+参考答案: E
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 008
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 橄榄岩
+B. 片麻岩
+C. 片岩
+D. 凝灰岩
+E. 玄武岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/008.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 009
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 片岩
+B. 浮岩
+C. 黑曜岩
+D. 花岗岩
+E. 孔雀石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/009.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 010
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 花岗岩
+B. 闪长岩
+C. 浮岩
+D. 片麻岩
+E. 蛇纹岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/010.png
+参考答案: D
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 011
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 煤/燧石
+B. 蛇纹岩
+C. 角闪岩
+D. 浮岩
+E. 片麻岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/011.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 012
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 安山岩
+B. 片岩
+C. 橄榄岩
+D. 片麻岩
+E. 矽卡岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/012.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 013
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 砾岩/角砾岩
+B. 砂岩
+C. 片麻岩
+D. 斜长角闪岩
+E. 泥岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/013.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 014
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 矽卡岩
+B. 珍珠岩
+C. 安山岩
+D. 糜棱岩
+E. 玄武岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/014.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 015
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 花岗岩
+B. 糜棱岩
+C. 浮岩
+D. 油页岩
+E. 凝灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/015.png
+参考答案: B
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 016
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 辉绿岩
+B. 凝灰岩
+C. 绿泥石片岩
+D. 砂岩
+E. 斜长角闪岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/016.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 017
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 绿泥石片岩
+C. 矽卡岩
+D. 辉长岩
+E. 黑曜岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/017.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 018
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 辉长岩
+B. 泥岩
+C. 绿泥石片岩
+D. 黑曜岩
+E. 橄榄岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/018.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 019
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 绿泥石片岩
+B. 凝灰岩
+C. 石英岩
+D. 片岩
+E. 浮岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/019.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 020
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长角闪岩
+B. 板岩
+C. 白岗岩
+D. 正长岩/正长石
+E. 石英岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/020.png
+参考答案: E
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 021
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 石英岩
+B. 流纹岩
+C. 岩屑砂岩
+D. 闪长岩
+E. 鲕状灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/021.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 022
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 白岗岩
+B. 石英岩
+C. 孔雀石
+D. 泥岩
+E. 正长岩/正长石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/022.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 023
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 砾岩/角砾岩
+B. 蛇纹岩
+C. 花岗岩
+D. 片麻岩
+E. 珍珠岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/023.png
+参考答案: B
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 024
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 辉长岩
+C. 蛇纹岩
+D. 片麻岩
+E. 泥岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/024.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 025
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 蛇纹岩
+B. 糜棱岩
+C. 橄榄岩
+D. 辉绿岩
+E. 斜长石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/025.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 026
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 黑曜岩
+B. 矽卡岩
+C. 安山岩
+D. 角闪岩
+E. 孔雀石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/026.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 027
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 流纹岩
+B. 黑曜岩
+C. 斜长石
+D. 白岗岩
+E. 煤/燧石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/027.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 028
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 花岗岩
+B. 辉长岩
+C. 岩屑砂岩
+D. 煤/燧石
+E. 板岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/028.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 029
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 糜棱岩
+B. 煤/燧石
+C. 片麻岩
+D. 辉绿岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/029.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 030
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 大理岩
+B. 板岩
+C. 辉绿岩
+D. 煤/燧石
+E. 千枚岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/030.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 031
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 橄榄岩
+B. 绿泥石片岩
+C. 煤/燧石
+D. 角闪岩
+E. 鲕状灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/031.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 032
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 硬石膏
+B. 煤/燧石
+C. 板岩
+D. 角闪岩
+E. 泥岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/032.png
+参考答案: A
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 033
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 硬石膏
+B. 流纹岩
+C. 石英岩
+D. 珍珠岩
+E. 煤/燧石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/033.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 034
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 岩屑砂岩
+B. 砾岩/角砾岩
+C. 绿泥石片岩
+D. 辉绿岩
+E. 珍珠岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/034.png
+参考答案: A
+模型输出: ### 答案: D
+是否正确: 0
+
+编号: 035
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 油页岩
+B. 岩屑砂岩
+C. 斜长石
+D. 糜棱岩
+E. 正长岩/正长石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/035.png
+参考答案: B
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 036
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 油页岩
+B. 辉长岩
+C. 玄武岩
+D. 黑曜岩
+E. 硬石膏
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/036.png
+参考答案: A
+模型输出: ### 答案: D
+是否正确: 0
+
+编号: 037
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 角闪岩
+B. 油页岩
+C. 煤/燧石
+D. 正长岩/正长石
+E. 橄榄岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/037.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 038
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 千枚岩
+B. 砂岩
+C. 石英岩
+D. 石英砂岩
+E. 黑曜岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/038.png
+参考答案: D
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 039
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 石英岩
+B. 绿泥石片岩
+C. 斜长角闪岩
+D. 千枚岩
+E. 石英砂岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/039.png
+参考答案: E
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 040
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 石英砂岩
+B. 榴辉岩
+C. 绿泥石片岩
+D. 流纹岩
+E. 矽卡岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/040.png
+参考答案: A
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 041
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 泥岩
+B. 片麻岩
+C. 黑曜岩
+D. 片岩
+E. 油页岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/041.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 042
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 硬石膏
+B. 浮岩
+C. 泥岩
+D. 闪长岩
+E. 千枚岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/042.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 043
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 蛇纹岩
+B. 珍珠岩
+C. 砂岩
+D. 孔雀石
+E. 鲕状灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/043.png
+参考答案: E
+模型输出: ### 答案: C. 砂岩
+是否正确: 0
+
+编号: 044
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 鲕状灰岩
+B. 片岩
+C. 安山岩
+D. 辉长岩
+E. 硬石膏
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/044.png
+参考答案: A
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 045
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 糜棱岩
+B. 榴辉岩
+C. 斜长石
+D. 岩屑砂岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/045.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 046
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 辉绿岩
+B. 硬石膏
+C. 浮岩
+D. 斜长角闪岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/046.png
+参考答案: E
+模型输出: ### 答案: E. 砾岩/角砾岩
+是否正确: 0
+
+编号: 047
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长角闪岩
+B. 孔雀石
+C. 砾岩/角砾岩
+D. 岩屑砂岩
+E. 辉长岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/047.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 048
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 硬石膏
+C. 流纹岩
+D. 油页岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/048.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 049
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 砂岩
+B. 凝灰岩
+C. 蛇纹岩
+D. 闪长岩
+E. 橄榄岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/049.png
+参考答案: A
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 050
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 玄武岩
+B. 岩屑砂岩
+C. 石英砂岩
+D. 斜长石
+E. 砂岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/050.png
+参考答案: E
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 051
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 煤/燧石
+B. 硬石膏
+C. 砂岩
+D. 安山岩
+E. 流纹岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/051.png
+参考答案: C
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 052
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 榴辉岩
+B. 石英岩
+C. 板岩
+D. 凝灰岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/052.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 053
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 泥岩
+B. 凝灰岩
+C. 孔雀石
+D. 浮岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/053.png
+参考答案: B
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 054
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 辉绿岩
+B. 片麻岩
+C. 石英砂岩
+D. 流纹岩
+E. 凝灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/054.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 055
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 千枚岩
+B. 硬石膏
+C. 蛇纹岩
+D. 安山岩
+E. 花岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/055.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 056
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 片麻岩
+B. 片岩
+C. 辉绿岩
+D. 安山岩
+E. 岩屑砂岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/056.png
+参考答案: D
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 057
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 安山岩
+B. 砾岩/角砾岩
+C. 橄榄岩
+D. 珍珠岩
+E. 油页岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/057.png
+参考答案: A
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 058
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 橄榄岩
+B. 角闪岩
+C. 煤/燧石
+D. 泥岩
+E. 白岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/058.png
+参考答案: A
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 059
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 榴辉岩
+B. 辉长岩
+C. 橄榄岩
+D. 岩屑砂岩
+E. 闪长岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/059.png
+参考答案: C
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 060
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 安山岩
+B. 孔雀石
+C. 油页岩
+D. 斜长石
+E. 橄榄岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/060.png
+参考答案: E
+模型输出: ### 答案: C
+是否正确: 0
+
+编号: 061
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 糜棱岩
+B. 珍珠岩
+C. 闪长岩
+D. 花岗岩
+E. 榴辉岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/061.png
+参考答案: D
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 062
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 千枚岩
+B. 辉绿岩
+C. 砾岩/角砾岩
+D. 石英岩
+E. 花岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/062.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 063
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 辉长岩
+C. 榴辉岩
+D. 正长岩/正长石
+E. 泥岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/063.png
+参考答案: D
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 064
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 正长岩/正长石
+B. 千枚岩
+C. 孔雀石
+D. 矽卡岩
+E. 蛇纹岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/064.png
+参考答案: A
+模型输出: ### 答案: B
+是否正确: 0
+
+编号: 065
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 角闪岩
+B. 砾岩/角砾岩
+C. 凝灰岩
+D. 砂岩
+E. 正长岩/正长石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/065.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 066
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 板岩
+B. 玄武岩
+C. 硬石膏
+D. 正长岩/正长石
+E. 橄榄岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/066.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 067
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 流纹岩
+B. 硬石膏
+C. 煤/燧石
+D. 角闪岩
+E. 白岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/067.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 068
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 凝灰岩
+B. 流纹岩
+C. 泥岩
+D. 大理岩
+E. 绿泥石片岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/068.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 069
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 石英砂岩
+B. 流纹岩
+C. 大理岩
+D. 板岩
+E. 花岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/069.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 070
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 大理岩
+B. 玄武岩
+C. 煤/燧石
+D. 石英岩
+E. 千枚岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/070.png
+参考答案: B
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 071
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 片岩
+B. 玄武岩
+C. 矽卡岩
+D. 闪长岩
+E. 凝灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/071.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 072
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 珍珠岩
+B. 玄武岩
+C. 石英岩
+D. 片岩
+E. 千枚岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/072.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 073
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 硬石膏
+B. 花岗岩
+C. 板岩
+D. 千枚岩
+E. 浮岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/073.png
+参考答案: E
+模型输出: ### 答案: E
+是否正确: 0
+
+编号: 074
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 蛇纹岩
+B. 闪长岩
+C. 浮岩
+D. 片岩
+E. 流纹岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/074.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 075
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 黑曜岩
+B. 正长岩/正长石
+C. 白岗岩
+D. 珍珠岩
+E. 辉长岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/075.png
+参考答案: D
+模型输出: ### 答案: A
+是否正确: 0
+
+编号: 076
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 辉绿岩
+B. 浮岩
+C. 硬石膏
+D. 安山岩
+E. 泥岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/076.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 077
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 辉长岩
+B. 硬石膏
+C. 浮岩
+D. 绿泥石片岩
+E. 糜棱岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/077.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 078
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 石英砂岩
+B. 千枚岩
+C. 橄榄岩
+D. 辉长岩
+E. 斜长石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/078.png
+参考答案: D
+模型输出: ### 答案: D
+是否正确: 1
+
+编号: 079
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 大理岩
+B. 蛇纹岩
+C. 闪长岩
+D. 绿泥石片岩
+E. 斜长角闪岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/079.png
+参考答案: C
+模型输出: ### 答案: C
+是否正确: 1
+
+编号: 080
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 玄武岩
+B. 孔雀石
+C. 石英砂岩
+D. 闪长岩
+E. 煤/燧石
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/080.png
+参考答案: B
+模型输出: ### 答案: B
+是否正确: 1
+
+编号: 081
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 正长岩/正长石
+B. 板岩
+C. 油页岩
+D. 黑曜岩
+E. 白岗岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/081.png
+参考答案: D
+模型输出: ### 答案: C.
+是否正确: 0
+
+编号: 082
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 板岩
+C. 孔雀石
+D. 闪长岩
+E. 砾岩/角砾岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/082.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 083
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 斜长石
+B. 片岩
+C. 煤/燧石
+D. 浮岩
+E. 安山岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/083.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
+编号: 084
+问题: 图片中的岩石是什么种类？请从给出的选项中选择正确的。
+A. 白岗岩
+B. 板岩
+C. 石英岩
+D. 花岗岩
+E. 凝灰岩
+
+图片链接: https://huggingface.co/datasets/hexuan21/rocks_img/resolve/main/rocks/084.png
+参考答案: A
+模型输出: ### 答案: A
+是否正确: 1
+
