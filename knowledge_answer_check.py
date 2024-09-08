@@ -203,14 +203,12 @@ if __name__ == "__main__":
     # model_name="01-ai/yi-34b-chat:914692bbe8a8e2b91a4e44203e70d170c9c5ccc1359b283c84b0ec8d47819a46"
     # model_name="replicate/flan-t5-xl:7a216605843d87f5426a10d2cc6940485a232336ed04d655ef86b91e020e9210"
     # model_name="stability-ai/stablelm-tuned-alpha-7b:943c4afb4d0273cf1cf17c1070e182c903a9fe6b372df36b5447cf45935c42f2"
-    
-    
-    
     # model_name="google-deepmind/gemma-7b-it:2790a695e5dcae15506138cc4718d1106d0d475e6dca4b1d43f42414647993d5"
-    model_name="lucataco/qwen1.5-7b:f85bec5b21ba0860e0f200be6ef5af9d5a65b974b9f99e36eb036d21eab884de"
-    # model_name="lucataco/qwen1.5-14b:28c4bbc17ee1575bd2efe2d805a6c3da9f555bf6298d447d9d8d8ebfb891c4a1"
-    # model_name="lucataco/qwen1.5-72b:f919d3c43a8758de744cf2908426dd744154120f0a22e457a3fa647acdfe33be"
+    # model_name="lucataco/qwen1.5-7b:f85bec5b21ba0860e0f200be6ef5af9d5a65b974b9f99e36eb036d21eab884de"
     
+    model_name="lucataco/qwen1.5-14b:28c4bbc17ee1575bd2efe2d805a6c3da9f555bf6298d447d9d8d8ebfb891c4a1"
+    
+    # model_name="lucataco/qwen1.5-72b:f919d3c43a8758de744cf2908426dd744154120f0a22e457a3fa647acdfe33be"
     # model_name="nateraw/nous-hermes-llama2-awq:b3f3f0120a3c4fd37a5e75164cc3ed883c248b9e6d004a70f0d31c3b0debb604"
     # model_name="nateraw/nous-hermes-2-solar-10.7b:1e918ab6ffd5872c21fba21a511f344fd12ac0edff6302c9cd260395c7707ff4"
     # model_name="kcaverly/nous-hermes-2-yi-34b-gguf:5e61add6304f8a7bffda9089153f8af3fd559cb9ad783f73703fd9ddcc9e8fde"
